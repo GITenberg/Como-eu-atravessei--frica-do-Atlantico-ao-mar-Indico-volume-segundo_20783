@@ -1,0 +1,42 @@
+_repo: Como-eu-atravessei--frica-do-Atlantico-ao-mar-Indico-volume-segundo_20783
+_version: 0.1.0
+alternative_title: Como eu atravessei África do Atlântico ao mar Índico, volume segundo
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pinto, Alexandre Alberto da Rocha de Serpa
+    alias: Serpa Pinto, Alexandre Alberto da Rocha de
+    birthdate: 1846
+    deathdate: 1900
+    gutenberg_agent_id: '9346'
+    url: http://www.gutenberg.org/2009/agents/9346
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Alexandre_Alberto_da_Rocha_de_Serpa_Pinto
+    - http://pt.wikipedia.org/wiki/Serpa_pinto
+description: 'Also available: volume primeiro #20508'
+gutenberg_bookshelf: PT Navegações e Explorações
+gutenberg_issued: '2007-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20783'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Rita Farinha, João Miguel Neves, Carlo Traverso\r\n\
+  and the Online Distributed Proofreading Team at\r\nhttp://www.pgdp.net. This file\
+  \ is gratefully uploaded to\r\nthe PG collection in honor of Distributed Proofreaders\r\
+  \nhaving posted over 10,000 ebooks. (This file was produced\r\nfrom images generously\
+  \ made available by the Bibliothèque\r\nnationale de France (BnF/Gallica) at http://gallica.bnf.fr)"
+publication_note: "Londres:\r\nSampson Low, Marston, Searle, e Rivington, Editores\r\
+  \nCrown Buildings, 188 Fleet Street\r\nNa Typographia De Guilherme Clowes E Filhos\r\
+  \n(Companhia Limitada)\r\nStamford Street E Charing Cross.\r\n1881"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Angola -- Description and travel'
+- !lcsh 'South Africa -- Description and travel'
+- !lcc 'DT'
+title: Como eu atravessei Àfrica do Atlantico ao mar Indico, volume segundo
+url: http://www.gutenberg.org/ebooks/20783
